@@ -1,0 +1,611 @@
+[
+    {
+        "domain": "gazprom.ru",
+        "mx_records":
+        [
+            "mailrelay.gazprom.ru."
+        ]
+    },
+    {
+        "domain": "lukoil.ru",
+        "mx_records":
+        [
+            "mx3.lukoil.com."
+        ]
+    },
+    {
+        "domain": "magnit.ru",
+        "mx_records":
+        [
+            "mailback.magnit.ru.",
+            "fmail.magnit.ru.",
+            "mail.magnit.ru."
+        ]
+    },
+    {
+        "domain": "nornickel.com",
+        "mx_records":
+        [
+            "mail1.nornik.ru.",
+            "mail2.nornik.ru.",
+            "mail3.nornik.ru."
+        ]
+    },
+    {
+        "domain": "surgutneftegas.ru",
+        "mx_records":
+        [
+            "info-02.surgutneftegas.ru.",
+            "info-01.surgutneftegas.ru."
+        ]
+    },
+    {
+        "domain": "tatneft.ru",
+        "mx_records":
+        [
+            "mail.tatneft.ru."
+        ]
+    },
+    {
+        "domain": "evraz.com",
+        "mx_records":
+        [
+            "mx1.hc46826.c3s2.iphmx.com.",
+            "mx2.hc46826.c3s2.iphmx.com."
+        ]
+    },
+    {
+        "domain": "nlmk.com",
+        "mx_records":
+        [
+            "mx.nlmk.com."
+        ]
+    },
+    {
+        "domain": "sibur.ru",
+        "mx_records":
+        [
+            "mx5.sibur.ru.",
+            "mx3.sibur.ru."
+        ]
+    },
+    {
+        "domain": "severstal.com",
+        "mx_records":
+        [
+            "chr-exch-edg2.severstal.com.",
+            "chr-exch-edg1.severstal.com.",
+            "msk-exch-edg1.severstal.com.",
+            "msk-exch-edg2.severstal.com."
+        ]
+    },
+    {
+        "domain": "metalloinvest.com",
+        "mx_records":
+        [
+            "ns.metalloinvest.com.",
+            "ns2.metalloinvest.com."
+        ]
+    },
+    {
+        "domain": "nangs.org",
+        "mx_records":
+        [
+            "mail.ruspromholding.com."
+        ]
+    },
+    {
+        "domain": "rmk-group.ru",
+        "mx_records":
+        [
+            "mx.rcc-group.ru."
+        ]
+    },
+    {
+        "domain": "tmk-group.ru",
+        "mx_records":
+        [
+            "mx.tmk-group.ru.",
+            "mx2.tmk-group.ru.",
+            "mx07.aha.ru."
+        ]
+    },
+    {
+        "domain": "ya.ru",
+        "mx_records":
+        [
+            "mx.yandex.ru."
+        ]
+    },
+    {
+        "domain": "polymetalinternational.com",
+        "mx_records":
+        [
+            "mxs.polymetal.ru."
+        ]
+    },
+    {
+        "domain": "uralkali.com",
+        "mx_records":
+        [
+            "post4.uralkali.com.",
+            "post3.uralkali.com."
+        ]
+    },
+    {
+        "domain": "eurosib.ru",
+        "mx_records":
+        [
+            "mx1.enplus.ru.",
+            "mx4.irkutskenergo.ru."
+        ]
+    },
+    {
+        "domain": "omk.ru",
+        "mx_records":
+        [
+            "mx1.omk.ru.",
+            "mx2.omk.ru."
+        ]
+    },
+    {
+        "domain": "sberbank.ru",
+        "mx_records":
+        [
+            "email11.sberbank.ru.",
+            "email12.sberbank.ru."
+        ]
+    },
+    {
+        "domain": "vtb.ru",
+        "mx_records":
+        [
+            "mx202.vtb.ru.",
+            "mx101.vtb.ru.",
+            "mx102.vtb.ru.",
+            "mx201.vtb.ru."
+        ]
+    },
+    {
+        "domain": "gazprombank.ru",
+        "mx_records":
+        [
+            "mx110.gazprombank.ru.",
+            "mx10.gazprombank.ru.",
+            "mx120.gazprombank.ru.",
+            "mx20.gazprombank.ru.",
+            "mx30.gazprombank.ru.",
+            "mx40.gazprombank.ru."
+        ]
+    },
+    {
+        "domain": "gosuslugi.ru",
+        "mx_records":
+        [
+            "mx68.gosuslugi.ru.",
+            "mx.gosuslugi.ru."
+        ]
+    },
+    {
+        "domain": "mos.ru",
+        "mx_records":
+        [
+            "mx01.mos.ru."
+        ]
+    },
+    {
+        "domain": "kremlin.ru",
+        "mx_records":
+        [
+            "mx3.gov.ru.",
+            "mx4.gov.ru."
+        ]
+    },
+    {
+        "domain": "government.ru",
+        "mx_records":
+        [
+            "mx4.gov.ru."
+        ]
+    },
+    {
+        "domain": "mil.ru",
+        "mx_records":
+        [
+            "mail2.mil.ru.",
+            "mail1.mil.ru."
+        ]
+    },
+    {
+        "domain": "gov.ru",
+        "mx_records":
+        [
+            "mx4.gov.ru.",
+            "mx3.gov.ru."
+        ]
+    },
+    {
+        "domain": "ria.ru",
+        "mx_records":
+        [
+            "m11.rian.ru.",
+            "m9.rian.ru."
+        ]
+    },
+    {
+        "domain": "gazeta.ru",
+        "mx_records":
+        [
+            "inmx.rambler-co.ru."
+        ]
+    },
+    {
+        "domain": "kp.ru",
+        "mx_records":
+        [
+            "mail.kp.ru.",
+            "mail1.kp.ru."
+        ]
+    },
+    {
+        "domain": "riafan.ru",
+        "mx_records":
+        [
+            "mx.yandex.ru."
+        ]
+    },
+    {
+        "domain": "pikabu.ru",
+        "mx_records":
+        [
+            "alt1.aspmx.l.google.com.",
+            "aspmx4.googlemail.com.",
+            "aspmx5.googlemail.com.",
+            "alt2.aspmx.l.google.com.",
+            "aspmx2.googlemail.com.",
+            "aspmx3.googlemail.com.",
+            "aspmx.l.google.com."
+        ]
+    },
+    {
+        "domain": "kommersant.ru",
+        "mx_records":
+        [
+            "prescript03.kommersant.ru.",
+            "prescript03vr.kommersant.ru."
+        ]
+    },
+    {
+        "domain": "mk.ru",
+        "mx_records":
+        [
+            "gate-mk1.mk.ru."
+        ]
+    },
+    {
+        "domain": "yaplakal.com",
+        "mx_records":
+        [
+            "ALT1.ASPMX.L.GOOGLE.com.",
+            "ALT2.ASPMX.L.GOOGLE.com.",
+            "ALT4.ASPMX.L.GOOGLE.com.",
+            "ALT3.ASPMX.L.GOOGLE.com.",
+            "ASPMX.L.GOOGLE.com."
+        ]
+    },
+    {
+        "domain": "rbc.ru",
+        "mx_records":
+        [
+            "mx2.rbc.ru.",
+            "mx3.rbc.ru.",
+            "smtp.rbc.ru."
+        ]
+    },
+    {
+        "domain": "bezformata.com",
+        "mx_records":
+        [
+            "mx.yandex.net."
+        ]
+    },
+    {
+        "domain": "belta.by",
+        "mx_records":
+        [
+            "mailserver4.belta.by.",
+            "mailserver3.belta.by.",
+            "mailserver5.belta.by."
+        ]
+    },
+    {
+        "domain": "sputnik.by",
+        "mx_records":
+        [
+            "m11.sputniknews.com.",
+            "m9.sputniknews.com."
+        ]
+    },
+    {
+        "domain": "tvr.by",
+        "mx_records":
+        [
+            "pmg.tvr.by."
+        ]
+    },
+    {
+        "domain": "sb.by",
+        "mx_records":
+        [
+            "mx1.sb.by.",
+            "mx0.sb.by."
+        ]
+    },
+    {
+        "domain": "belmarket.by",
+        "mx_records":
+        [
+            "mail.belmarket.by."
+        ]
+    },
+    {
+        "domain": "belarus.by",
+        "mx_records":
+        [
+            "ms.ml.belta.by."
+        ]
+    },
+    {
+        "domain": "belarus24.by",
+        "mx_records":
+        []
+    },
+    {
+        "domain": "ont.by",
+        "mx_records":
+        [
+            "smtp.ont.by."
+        ]
+    },
+    {
+        "domain": "024.by",
+        "mx_records":
+        [
+            "mx.yandex.net."
+        ]
+    },
+    {
+        "domain": "belnovosti.by",
+        "mx_records":
+        [
+            "mailbe05.hoster.by."
+        ]
+    },
+    {
+        "domain": "mogilevnews.by",
+        "mx_records":
+        [
+            "mx.yandex.net."
+        ]
+    },
+    {
+        "domain": "mil.by",
+        "mx_records":
+        []
+    },
+    {
+        "domain": "yandex.by",
+        "mx_records":
+        [
+            "mx.yandex.ru."
+        ]
+    },
+    {
+        "domain": "slonves.by",
+        "mx_records":
+        [
+            "mailbe03.hoster.by."
+        ]
+    },
+    {
+        "domain": "ctv.by",
+        "mx_records":
+        [
+            "mail.ctv.by."
+        ]
+    },
+    {
+        "domain": "radiobelarus.by",
+        "mx_records":
+        []
+    },
+    {
+        "domain": "radiusfm.by",
+        "mx_records":
+        [
+            "mx.yandex.net."
+        ]
+    },
+    {
+        "domain": "alfaradio.by",
+        "mx_records":
+        [
+            "mx.yandex.net."
+        ]
+    },
+    {
+        "domain": "radiomir.by",
+        "mx_records":
+        [
+            "mail.radiomir.by."
+        ]
+    },
+    {
+        "domain": "radiostalica.by",
+        "mx_records":
+        []
+    },
+    {
+        "domain": "radiobrestfm.by",
+        "mx_records":
+        []
+    },
+    {
+        "domain": "tvrmogilev.by",
+        "mx_records":
+        [
+            "mail.tvrmogilev.by."
+        ]
+    },
+    {
+        "domain": "minsknews.by",
+        "mx_records":
+        [
+            "mailbe04.hoster.by."
+        ]
+    },
+    {
+        "domain": "zarya.by",
+        "mx_records":
+        [
+            "mx.yandex.net."
+        ]
+    },
+    {
+        "domain": "grodnonews.by",
+        "mx_records":
+        [
+            "mail.grodnonews.by."
+        ]
+    },
+    {
+        "domain": "rec.gov.by",
+        "mx_records":
+        [
+            "mail.rec.gov.by."
+        ]
+    },
+    {
+        "domain": "mil.by",
+        "mx_records":
+        []
+    },
+    {
+        "domain": "government.by",
+        "mx_records":
+        [
+            "mail.government.by."
+        ]
+    },
+    {
+        "domain": "president.gov.by",
+        "mx_records":
+        [
+            "mg1.g-cloud.by.",
+            "ms1.g-cloud.by."
+        ]
+    },
+    {
+        "domain": "mvd.gov.by",
+        "mx_records":
+        [
+            "mg1.g-cloud.by.",
+            "ms1.g-cloud.by."
+        ]
+    },
+    {
+        "domain": "kgb.by",
+        "mx_records":
+        [
+            "mail.kgb.by."
+        ]
+    },
+    {
+        "domain": "prokuratura.gov.by",
+        "mx_records":
+        [
+            "mail.prokuratura.gov.by."
+        ]
+    },
+    {
+        "domain": "nbrb.by",
+        "mx_records":
+        [
+            "mail.nbrb.by.",
+            "mail2.nbrb.by."
+        ]
+    },
+    {
+        "domain": "belarusbank.by",
+        "mx_records":
+        [
+            "mx2.belarusbank.by.",
+            "mx1.belarusbank.by."
+        ]
+    },
+    {
+        "domain": "brrb.by",
+        "mx_records":
+        [
+            "mx.brrb.by."
+        ]
+    },
+    {
+        "domain": "belapb.by",
+        "mx_records":
+        [
+            "mail2.belapb.by.",
+            "mail.belapb.by."
+        ]
+    },
+    {
+        "domain": "bankdabrabyt.by",
+        "mx_records":
+        [
+            "mail.mmbank.by."
+        ]
+    },
+    {
+        "domain": "belinvestbank.by",
+        "mx_records":
+        [
+            "smwr.belinvestbank.by."
+        ]
+    },
+    {
+        "domain": "bgp.by",
+        "mx_records":
+        [
+            "mail.bgp.by."
+        ]
+    },
+    {
+        "domain": "belneftekhim.by",
+        "mx_records":
+        [
+            "ns2.belneftekhim.by."
+        ]
+    },
+    {
+        "domain": "bellegprom.by",
+        "mx_records":
+        [
+            "mail.bellegprom.by."
+        ]
+    },
+    {
+        "domain": "energo.by",
+        "mx_records":
+        [
+            "mail-new.energo.by.",
+            "mail.energo.by."
+        ]
+    },
+    {
+        "domain": "belres.by",
+        "mx_records":
+        [
+            "mail.belres.by."
+        ]
+    }
+]
