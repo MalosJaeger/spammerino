@@ -1,10 +1,14 @@
 import json
 import logging
-import utils
+import src.utils
 
 from multiprocessing import Queue, Pool
 
+# INITIAL BASE CONFIGS
+#logging.basicConfig(level=logging.DEBUG)
 
+
+# METHODS
 def parse_email_servers(domains: list[str]) -> dict:
     mail_servers = {}
 
@@ -24,4 +28,4 @@ def dump_email_servers(domains_file: str, output_file: str):
 
 
 if __name__ == '__main__':
-    dump_email_servers('lists/domains.txt', 'lists/mail_servers2.json')
+    dump_email_servers('lists/domains.txt', 'lists/mail_servers.json')

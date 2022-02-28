@@ -93,6 +93,7 @@ ajax
 al
 album
 albums
+alerts
 all
 alpha
 am
